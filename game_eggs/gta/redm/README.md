@@ -3,6 +3,8 @@
 RedM is a modification for Grand Theft Auto V enabling you to play multiplayer on customized dedicated servers.
 # Notice
 
+You could try to add `+set sv_enforceGameBuild 1436` to the end of `+set gamename rdr3` when starting up your server.
+
 Currently the script can get versions from the builds site.
 
 The `FIVEM_VERSION` variable.
