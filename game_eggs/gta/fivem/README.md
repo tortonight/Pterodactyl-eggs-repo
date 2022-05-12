@@ -3,6 +3,9 @@
 FiveM is a modification for Grand Theft Auto V enabling you to play multiplayer on customized dedicated servers.
 # Notice
 
+- FiveM artifacts
+Download Site [Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)
+Download Site [Linux](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/)
 Currently the script can get versions from the builds site.
 
 The `FIVEM_VERSION` variable.
